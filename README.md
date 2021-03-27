@@ -1,5 +1,4 @@
 # ExtendibleHash
-Extendible hash
 
 cmake .
 
